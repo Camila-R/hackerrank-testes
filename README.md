@@ -2,7 +2,7 @@
 
 ### Easy
 
-#### Folder array
+#### Folder algorithms
 1. Simple Array Sum;
 2. Compare the triplets;
 3. A very big sum;
