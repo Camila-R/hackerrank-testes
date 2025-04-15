@@ -1,7 +1,8 @@
-# HackerRank Testes
+# HackerRank Challenges
 
 ### Easy
-- Folder array
+
+#### Folder array
 1. Simple Array Sum;
 2. Compare the triplets;
 3. A very big sum;
